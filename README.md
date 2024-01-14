@@ -1,0 +1,1 @@
+This is a small project where I create a hit bubble game using html, css and javascript. 
